@@ -1,6 +1,6 @@
-## Getting Started
+## Local Outlier Factor Program
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This is my code about Local Outlier Factor as project of Data Mining Course
 
 ## Folder Structure
 
